@@ -3,6 +3,7 @@
 > Desenvolvido em apenas uma semana, o trabalho foi apresentado para uma avaliadora de filmes e marcas.
 
 ---
+
   <p align="center">
     <img src="CAPA.png" alt="Capa do Projeto" width="800">
   </p>
@@ -10,6 +11,22 @@
 ## 📌 Sobre o Projeto
 
 Este projeto foi desenvolvido por alunos do **SENAC** com o objetivo de realizar uma análise aprofundada do filme **Tropa de Elite**. A pesquisa foi conduzida com base em um formulário criado e compartilhado pelo próprio grupo, reunindo percepções, opiniões e dados de múltiplos respondentes para embasar a análise final.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+### 🔷 Power BI + Power Query
+Utilizado para o **tratamento e limpeza dos dados** oriundos do formulário coletivo, além da criação de dashboards de apoio à análise.
+
+### 🐍 Python
+Utilizado para a criação dos **dashboards principais e mais elaborados**, com as seguintes bibliotecas:
+
+| Biblioteca | Uso |
+|---|---|
+| `pandas` | Manipulação e análise de dados |
+| `seaborn` | Visualizações estatísticas |
+| `matplotlib` | Geração de gráficos e plots |
 
 ---
 
@@ -27,7 +44,9 @@ Este projeto foi desenvolvido por alunos do **SENAC** com o objetivo de realizar
 ## ✅ O Que Foi Feito
 
 - [x] Criação e distribuição de formulário de pesquisa coletiva
-- [x] Coleta e organização das respostas do grupo
+- [x] Coleta e tratamento dos dados via **Power BI / Power Query**
+- [x] Criação de dashboards de apoio no **Power BI**
+- [x] Desenvolvimento dos dashboards principais com **Python** (pandas, seaborn, matplotlib)
 - [x] Análise do filme *Tropa de Elite* sob múltiplas perspectivas
 - [x] Elaboração de apresentação final para avaliadora de filmes e marcas
 
