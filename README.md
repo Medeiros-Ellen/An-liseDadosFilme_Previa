@@ -4,7 +4,7 @@
 
 ---
   <p align="center">
-    <img src="CAPA.png" alt="Capa do Projeto" width="700">
+    <img src="CAPA.png" alt="Capa do Projeto" width="800">
   </p>
 
 ## 📌 Sobre o Projeto
